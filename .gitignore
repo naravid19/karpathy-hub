@@ -1,0 +1,32 @@
+# Private & Transient data
+todos/
+chat/
+.superpowers/
+.gemini_security/
+
+# Logs
+*.log
+
+# IDEs & Tools
+.vscode/
+.idea/
+.understand-anything/
+
+# Python build & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+env/
+venv/
