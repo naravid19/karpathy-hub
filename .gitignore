@@ -4,6 +4,9 @@ chat/
 .superpowers/
 .gemini_security/
 
+# Personal Knowledge Base
+wiki_hub/
+
 # Logs
 *.log
 
@@ -30,5 +33,7 @@ Thumbs.db
 .venv/
 env/
 venv/
-/docs
+
+# Documentation & References
 /references
+/docs
