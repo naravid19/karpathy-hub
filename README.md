@@ -9,7 +9,8 @@ The system enforces a strict isolation between topics, allowing an agent to oper
 ## 📋 Table of Contents
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
+- [Quickstart (AI Extensions)](#-quickstart-ai-extensions)
+- [Getting Started (Developer Setup)](#-getting-started-developer-setup)
 - [Architecture](#-architecture)
 - [Agent Protocol](#-agent-protocol)
 - [CLI Reference](#-cli-reference)
@@ -37,7 +38,23 @@ The system enforces a strict isolation between topics, allowing an agent to oper
 
 ---
 
-## 🛠️ Getting Started
+## 🚀 Quickstart (AI Extensions)
+
+If you are using an AI agent (Gemini CLI, Claude Code), you can install Karpathy Hub as an extension to automatically load the **Agent Protocol** and supporting tools.
+
+### Gemini CLI
+```bash
+gemini extensions install https://github.com/user/karpathy-hub
+```
+
+### Claude Code
+```bash
+/plugin install https://github.com/user/karpathy-hub
+```
+
+---
+
+## 🛠️ Getting Started (Developer Setup)
 
 ### 1. Prerequisites
 - **Python 3.13+** installed.

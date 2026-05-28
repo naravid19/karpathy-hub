@@ -1,0 +1,6 @@
+{
+  "name": "karpathy-hub",
+  "description": "A scalable framework for building personal knowledge bases maintained by AI agents, based on Andrej Karpathy's LLM Wiki Pattern.",
+  "version": "0.1.0",
+  "contextFileName": "AGENTS.md"
+}
